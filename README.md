@@ -1,7 +1,7 @@
 # Pairwise_swap_elements_of_a_linked_list
 C++ programming
 
-le 2:
+
 
 Input:
 LinkedList: 1->3->4->7->9->10->1
